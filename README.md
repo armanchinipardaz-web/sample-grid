@@ -32,7 +32,7 @@
 
 ![Image]
 
-- [Demo Project](https://armanchinipardaz-web.github.io/web24-sess8/)
+- [Demo Project](https://armanchinipardaz-web.github.io/sample-grid/)
 
 - Developed by armanchinipardaz
 
