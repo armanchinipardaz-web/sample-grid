@@ -30,7 +30,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f81f7fc7-f37b-424f-b2b3-149a417ec17d)
 
-![Image]
+
 
 - [Demo Project](https://armanchinipardaz-web.github.io/sample-grid/)
 
